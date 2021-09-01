@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957840173489",
+    "project_id": "ebanking-b29ed",
+    "storage_bucket": "ebanking-b29ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957840173489:android:08c966d02bb4e773793590",
+        "android_client_info": {
+          "package_name": "com.aleksa.e_banking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957840173489-ekul9frbkshvt6ao1bkskbbggc7hu1fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw4pTUOhaOvA0QFZ4jhUhLjpYwr-cVoL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957840173489-ekul9frbkshvt6ao1bkskbbggc7hu1fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
